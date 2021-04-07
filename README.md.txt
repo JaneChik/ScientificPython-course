@@ -1,1 +1,2 @@
-Scientific Python course 2021. ITMO.!!!!!
+## Scientific Python course 2021
+### **ITMO**
