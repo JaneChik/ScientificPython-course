@@ -985,17 +985,17 @@ after
 
 With *b3236* gene being knocked out ```MDH``` *(Malate Dehydrogenase)* reaction changed to ```ME1``` *(Malic enzyme (NAD))*. However, fraction of produced $NADH$ is much lower (1.83% against 13.14%):
 
-**MDH:** $$malL_c + nad_c <=> h_c + nadh_c + oaa_c$$
-<img src="https://render.githubusercontent.com/render/math?math=malL_c%2Bnad_c<=>h_c%2Bnadh_c%2Boaa_c">
+**MDH:** <img src="https://render.githubusercontent.com/render/math?math=malL_c%2Bnad_c<=>h_c%2Bnadh_c%2Boaa_c">
 
 **ME1:** $$malL_c + nad_c => CO_{2(c)} + nadh_c + pyr_c$$
+<img src="https://render.githubusercontent.com/render/math?math=malL_c%2Bnad_c=>CO_{2(c)}%2Bnadh_c%2Bpyr_c">
 
 1) The first difference is that products of the reaction differ *(different enzymes working)*:
 
-$h_c \rightarrow CO_{2(c)}$ and $oxaloacetate_c \rightarrow pyruvate_c$
+<img src="https://render.githubusercontent.com/render/math?math=h_c\rightarrowCO_{2(c)}"> and <img src="https://render.githubusercontent.com/render/math?math=oxaloacetate_c\rightarrowpyruvate_c"> 
 
-2) Production of $NADH$: 
+2) Production of <img src="https://render.githubusercontent.com/render/math?math=NADH">: 
 
-$ 13.14\% \longrightarrow \space \downarrow1.83\% $
+<img src="https://render.githubusercontent.com/render/math?math=13.14\%\longrightarrow\space\downarrow1.83\%">
 
 3) And after knockout this reaction is not reversable.
