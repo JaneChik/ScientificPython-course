@@ -985,7 +985,8 @@ after
 
 With *b3236* gene being knocked out ```MDH``` *(Malate Dehydrogenase)* reaction changed to ```ME1``` *(Malic enzyme (NAD))*. However, fraction of produced $NADH$ is much lower (1.83% against 13.14%):
 
-**MDH:** `$$malL_c + nad_c <=> h_c + nadh_c + oaa_c$$`
+**MDH:** $$malL_c + nad_c <=> h_c + nadh_c + oaa_c$$
+<img src="https://render.githubusercontent.com/render/math?math=malL_c%2Bnad_c<=>h_c%2Bnadh_c%2Boaa_c">
 
 **ME1:** $$malL_c + nad_c => CO_{2(c)} + nadh_c + pyr_c$$
 
