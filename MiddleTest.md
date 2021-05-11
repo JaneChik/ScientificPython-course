@@ -995,6 +995,6 @@ With *b3236* gene being knocked out ```MDH``` *(Malate Dehydrogenase)* reaction 
 
 2) Production of ```NADH```: 
 
-<img src="https://render.githubusercontent.com/render/math?math=13.14\%->1.83\%">
+13.14%  ->  1.83\%
 
 3) And after knockout this reaction is not reversable.
